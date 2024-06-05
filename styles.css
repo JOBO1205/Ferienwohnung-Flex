@@ -23,7 +23,7 @@ h2 {
 }
 
 div.center {
-  position: absolute;
+  position: center;
 }
 
 div.relative {
