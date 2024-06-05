@@ -23,12 +23,13 @@ div.center {
 div.relative {
   position: relative;
   left: 2px;
+  font-size: 15pt;
 }
 
  div.absolute{
   position: absolute;
   right:350px;
-  top:50px
+  top:50px;
   width:200px;
   height:200px;
 }
